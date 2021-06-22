@@ -1,5 +1,7 @@
 # rsgen_bot
 
+![Evil hägger hägging things](logo.png)
+
 ## Motivation
 
 I keep on forgetting how to generate reverse shells lel.
