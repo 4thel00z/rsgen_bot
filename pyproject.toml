@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "rsgen_bot"
+version = "0.1.0"
+description = "A telegram bot which generates reverse shells"
+authors = ["4thel00z <4thel00z@gmail.com>"]
+license = "GPL-3"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+python-telegram-bot = "^13.6"
+
+[tool.poetry.dev-dependencies]
+black = "^21.6b0"
+pytest = "^6.2.4"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
